@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Region de Murcia</string>
+    <string name="verTiempo">Ver tiempo</string>
+    <string name="verImagenes">Ver imágenes</string>
+</resources>

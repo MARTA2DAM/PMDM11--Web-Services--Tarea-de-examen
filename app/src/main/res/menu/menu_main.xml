@@ -1,0 +1,13 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/verTiempo"
+        android:title="@string/verTiempo"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/verImagenes"
+        android:title="@string/verImagenes"
+        app:showAsAction="never" />
+</menu>
